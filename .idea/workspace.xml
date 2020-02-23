@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="bf29d776-344f-4c49-8e9b-d806792b85bc">
     <option name="files">
       <option value="The Battle of Neighborhoods.ipynb" />
