@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc473c9-17aa-42b0-b24f-b0c7e3c3ac50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/The Battle of Neighborhoods report.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The Battle of Neighborhoods.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/The Battle of Neighborhoods.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -81,7 +87,7 @@
       <workItem from="1582800626095" duration="1078000" />
       <workItem from="1582801752904" duration="488000" />
       <workItem from="1582802278562" duration="186000" />
-      <workItem from="1582802569543" duration="458000" />
+      <workItem from="1582802569543" duration="2073000" />
     </task>
     <servers />
   </component>
@@ -135,5 +141,16 @@
     </state>
     <state x="1098" y="231" key="search.everywhere.popup/0.0.1920.1049@0.0.1920.1049" timestamp="1582506637087" />
     <state x="1098" y="1318" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1582801518018" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/The Battle of Neighborhoods report.ipynb</url>
+          <line>48</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
